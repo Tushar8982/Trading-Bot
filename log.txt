@@ -1,8 +1,1 @@
-2025-05-13 20:13:04,115 - INFO - Welcome to Binance Futures Bot
-2025-05-13 20:14:04,372 - INFO - Error placing order: API Secret required for private endpoints
-2025-05-13 20:19:19,292 - INFO - Welcome to Binance Futures Bot
-2025-05-14 23:56:27,457 - INFO - Welcome to Binance Futures Bot
-2025-05-14 23:56:59,663 - INFO - Error placing order: API Secret required for private endpoints
-2025-05-15 17:50:52,595 - INFO - Welcome to Binance Futures Bot
-2025-05-15 17:59:36,450 - INFO - Welcome to Binance Futures Bot
-2025-05-15 18:00:03,927 - INFO - Error placing order: API Secret required for private endpoints
+
